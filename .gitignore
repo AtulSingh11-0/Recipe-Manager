@@ -40,6 +40,8 @@ Pipfile.lock
 .vscode/
 .idea/
 
+demo/
+
 # Ignore environment-specific files
 *.iml
 *.pyc
