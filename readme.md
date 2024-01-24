@@ -1,6 +1,4 @@
-# Project Title
-
-Recipe Manager
+# Recipe Manager
 
 ## Table of Contents
 - [Introduction](#introduction)
